@@ -5,10 +5,10 @@ IBM-Project-16931-1659625158
 
 ### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="30" height="30"></picture>
    
-  - Lokesh P 
-  - Prithiv Raj S
-  - Thirugnanam M
-  - Brihadeeswaran N
+  - Noble A 
+  - Tharun J
+  - Sathiyaseelan V
+  - Vishva R
   
  ## Project Objectives : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
 
