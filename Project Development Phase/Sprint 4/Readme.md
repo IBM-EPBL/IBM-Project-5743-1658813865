@@ -19,6 +19,6 @@
 
 ## Sample Outputs
 
-![This is an image](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/blob/main/Project%20Development%20Phase/Sprint%204/sample%20output%201.png)
+![This is an image](https://github.com/IBM-EPBL/IBM-Project-5743-1658813865/blob/f5d2b3faed65888d4301fec3b27301f2aa817118/Project%20Development%20Phase/Sprint%204/sample%20output%201.png)
 
-![This is an image](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/blob/main/Project%20Development%20Phase/Sprint%204/sample%20output%202.png)
+![This is an image](https://github.com/IBM-EPBL/IBM-Project-5743-1658813865/blob/f5d2b3faed65888d4301fec3b27301f2aa817118/Project%20Development%20Phase/Sprint%204/sample%20output%202.png)
